@@ -1,11 +1,9 @@
 body{
     padding:0;
     margin: 0;
-    
+    text-align:center;
 }
 img {
-    float:left;
-}
-.doggo {
-width: 20%;
-}
+    width:20%;
+} 
+
